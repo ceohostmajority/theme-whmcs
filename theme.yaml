@@ -1,6 +1,12 @@
 # My Theme Configuration File
 
-name: "My Custom Theme"
-author: "WHMCS Limited"
+name: "mytheme"
+description: "Hostmajority.com"
+author: "Host majority, L.L.C."
 config:
   parent: twenty-one
+dependencies:
+  bootstrap: 4.5.2
+provides:
+  jquery: 1.12
+  fontawesome: 5
