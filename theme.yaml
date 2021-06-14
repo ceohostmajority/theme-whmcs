@@ -1,0 +1,6 @@
+# My Theme Configuration File
+
+name: "My Custom Theme"
+author: "WHMCS Limited"
+config:
+  parent: twenty-one
